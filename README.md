@@ -11,3 +11,7 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
   - __[Gun Deaths Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Gun_Deaths_GP.ipynb)__
   - __[Gun Deaths Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/guns.csv)__
   - __[Census Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/census.csv)__
+  
+  ## Project 3: Analyzing Thanksgiving Dinner Data
+ - __[Thanksgiving Dinner Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Thanksgiving_Dinner_GP.ipynb)__
+ - __[Thanksgiving Dinner Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/thanksgiving.csv)__
