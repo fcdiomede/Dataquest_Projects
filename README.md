@@ -15,3 +15,9 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
   ## Project 3: Analyzing Thanksgiving Dinner Data
  - __[Thanksgiving Dinner Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Thanksgiving_Dinner_GP.ipynb)__
  - __[Thanksgiving Dinner Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/thanksgiving.csv)__
+ 
+ ## Project 4: Visualizing Earnings Based on College Major
+ - __[US Births Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Earnings_CollegeMajors_GP.ipynb)__
+ - __[US Births Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/recent-grads.csv)__
+ 
+
