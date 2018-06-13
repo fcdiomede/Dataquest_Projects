@@ -20,4 +20,7 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  - __[College Major Earnings Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Earnings_CollegeMajors_GP.ipynb)__
  - __[Recent Grads Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/recent-grads.csv)__
  
+  ## Project 5: Visualizing the Gender Gap in College Degrees
+ - __[Gender Gap Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Gender_Gap_GPP.ipynb)__
+ - __[Bachelor Degrees Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/percent-bachelors-degrees-women-usa.csv)__
 
