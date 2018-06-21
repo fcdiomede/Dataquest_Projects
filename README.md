@@ -24,3 +24,7 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  - __[Gender Gap Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Gender_Gap_GPP.ipynb)__
  - __[Bachelor Degrees Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/percent-bachelors-degrees-women-usa.csv)__
 
+  ## Project 6:  Analyzing NYC High School Data
+ - __[NYC Schools Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/schools.ipynb)__
+ - __[NYC Schools Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/percent-bachelors-degrees-women-usa.csv)__
+
