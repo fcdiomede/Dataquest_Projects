@@ -28,3 +28,6 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  - __[NYC Schools Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Schools.ipynb)__
  - __[NYC Schools Data](https://github.com/fcdiomede/Dataquest_Projects/tree/master/NYC_Schools_Data)__
 
+ ## Project 7:  Star Wars Survey
+ - __[Star Wars Survey Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Star_Wars_Survey_GP.ipynb)__
+ - __[Star Wars Survey Data](https://github.com/fcdiomede/Dataquest_Projects/tree/master/star_wars.csv)__
