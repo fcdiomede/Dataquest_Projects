@@ -25,6 +25,6 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  - __[Bachelor Degrees Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/percent-bachelors-degrees-women-usa.csv)__
 
   ## Project 6:  Analyzing NYC High School Data
- - __[NYC Schools Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/schools.ipynb)__
+ - __[NYC Schools Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Schools.ipynb)__
  - __[NYC Schools Data](https://github.com/fcdiomede/Dataquest_Projects/tree/master/NYC_Schools_Data)__
 
