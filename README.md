@@ -31,3 +31,8 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  ## Project 7:  Star Wars Survey
  - __[Star Wars Survey Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Star_Wars_Survey_GP.ipynb)__
  - __[Star Wars Survey Data](https://github.com/fcdiomede/Dataquest_Projects/tree/master/star_wars.csv)__
+ 
+  ## Project 8:  Civil Rights Education Data Exploration - Working with Data Downloads
+ - __[Civil Rights Data Exploration Files](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Data_Downloads_GP/scripts)__
+ 
+ 
