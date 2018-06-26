@@ -35,4 +35,9 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
   ## Project 8:  Civil Rights Education Data Exploration - Working with Data Downloads
  - __[Civil Rights Data Exploration Files](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Data_Downloads_GP/scripts)__
  
+  ## Project 9:  Hacker News Submissions Data Exploration - Transforming Data with Python
+ - __[Hacker News Submissions Exploration Files](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Transforming_Data_GP)__
+ 
+ 
+ 
  
