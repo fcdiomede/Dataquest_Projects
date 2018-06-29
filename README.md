@@ -38,6 +38,10 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
   ## Project 9:  Hacker News Submissions Data Exploration - Transforming Data with Python
  - __[Hacker News Submissions Exploration Files](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Transforming_Data_GP)__
  
+  ## Project 10:  Analyzing CIA Factbook Data Using SQLite and Python
+ - __[Factbook Data Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Factbook_Data_GP.ipynb)__
+ - __[Factbook Database](https://github.com/fcdiomede/Dataquest_Projects/tree/master/factbook.db)__
+ 
  
  
  
