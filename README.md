@@ -43,7 +43,7 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  - __[Factbook Database](https://github.com/fcdiomede/Dataquest_Projects/tree/master/factbook.db)__
  
   ## Project 11:  Answering Business Questions using SQL
- - __[Factbook Data Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Business_Questions_SQL_GP.ipynb)__
+ - __[Music Store Business Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Business_Questions_SQL_GP.ipynb)__
  
  
  
