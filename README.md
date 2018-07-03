@@ -44,6 +44,7 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  
   ## Project 11:  Answering Business Questions using SQL
  - __[Music Store Business Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_11/Business_Questions_SQL_GP.ipynb)__
+ - __[Music Store Database](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_11/chinook.db)__
  
   ## Project 12:  Database Design and Creation
  - __[Baseball Database](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Database_Design_and_Creation)__
