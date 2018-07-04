@@ -26,26 +26,26 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
 
   ## Project 6:  Analyzing NYC High School Data
  - __[NYC Schools Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_6/Schools.ipynb)__
- - __[NYC Schools Data](https://github.com/fcdiomede/Dataquest_Projects/tree/master/NYC_Schools_Data)__
+ - __[NYC Schools Data](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Project_6/NYC_Schools_Data)__
 
  ## Project 7:  Star Wars Survey
  - __[Star Wars Survey Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_7/Star_Wars_Survey_GP.ipynb)__
  - __[Star Wars Survey Data](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Project_7/star_wars.csv)__
  
   ## Project 8:  Civil Rights Education Data Exploration - Working with Data Downloads
- - __[Civil Rights Data Exploration Files](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Data_Downloads_GP/scripts)__
+ - __[Civil Rights Data Exploration Files](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Project_8/scripts)__
  
   ## Project 9:  Hacker News Submissions Data Exploration - Transforming Data with Python
- - __[Hacker News Submissions Exploration Files](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Transforming_Data_GP)__
+ - __[Hacker News Submissions Exploration Files](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Project_9)__
  
   ## Project 10:  Analyzing CIA Factbook Data Using SQLite and Python
  - __[Factbook Data Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_10/Factbook_Data_GP.ipynb)__
- - __[Factbook Database](https://github.com/fcdiomede/Dataquest_Projects/tree/master/factbook.db)__
+ - __[Factbook Database](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Project_10/factbook.db)__
  
   ## Project 11:  Answering Business Questions using SQL
  - __[Music Store Business Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_11/Business_Questions_SQL_GP.ipynb)__
  - __[Music Store Database](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_11/chinook.db)__
  
   ## Project 12:  Database Design and Creation
- - __[Baseball Database](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Database_Design_and_Creation)__
+ - __[Baseball Database](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Project_12)__
  
