@@ -49,3 +49,8 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
   ## Project 12:  Database Design and Creation
  - __[Baseball Database](https://github.com/fcdiomede/Dataquest_Projects/tree/master/Project_12)__
  
+  ## Project 13:  Fandango Movie Ratings Comparison
+ - __[Rating Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_13/Fandango_Ratings_GP.ipynb)__
+ - __[Fandango 2015 Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_13/fandango_score_comparison.csv)__
+ - __[Fandango 2016 Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_13/movie_ratings_16_17.csv)__
+ 
