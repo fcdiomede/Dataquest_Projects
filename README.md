@@ -12,6 +12,10 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
   - __[Gun Deaths Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/guns.csv)__
   - __[Census Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_2/census.csv)__
   
+ ## Project 2B: Creating a Simple Version of the Pandas Library
+  - __[BabyPandas Notebook]()__
+  - __[Music Store Data]()__
+  
   ## Project 3: Analyzing Thanksgiving Dinner Data
  - __[Thanksgiving Dinner Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_3/Thanksgiving_Dinner_GP.ipynb)__
  - __[Thanksgiving Dinner Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_3/thanksgiving.csv)__
