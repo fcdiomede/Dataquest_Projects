@@ -13,7 +13,7 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
   - __[Census Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_2/census.csv)__
   
  ## Project 2B: Creating a Simple Version of the Pandas Library
-  - __[BabyPandas Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_2A/BabyPandas_GP.ipynb)__
+  - __[BabyPandas Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_2B/BabyPandas_GP.ipynb)__
   - __[Music Store Data]()__
   
   ## Project 3: Analyzing Thanksgiving Dinner Data
@@ -57,4 +57,8 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  - __[Rating Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_13/Fandango_Ratings_GP.ipynb)__
  - __[Fandango 2015 Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_13/fandango_score_comparison.csv)__
  - __[Fandango 2016 Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_13/movie_ratings_16_17.csv)__
+ 
+  ## Project 14:  Finding the Best Markets to Advertise IN
+ - __[Market Analysis Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_14/Market_Analysis_GP.ipynb)__
+ - __[Survey Respone Data]()__
  
