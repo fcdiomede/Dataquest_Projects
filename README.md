@@ -20,6 +20,10 @@ Hello! This repository is a series of projects I've worked on through the Dataqu
  - __[Thanksgiving Dinner Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_3/Thanksgiving_Dinner_GP.ipynb)__
  - __[Thanksgiving Dinner Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_3/thanksgiving.csv)__
  
+ ## Project 3B: Analyzing Ebay Car Sales Data
+ - __[Ebay Car Sales Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_3B/CarSalesData.ipynb)__
+ - __[Ebay Car Sales Data]()__
+ 
  ## Project 4: Visualizing Earnings Based on College Major
  - __[College Major Earnings Notebook](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_4/Earnings_CollegeMajors_GP.ipynb)__
  - __[Recent Grads Data](https://github.com/fcdiomede/Dataquest_Projects/blob/master/Project_4/recent-grads.csv)__
